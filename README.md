@@ -15,7 +15,7 @@ This is the official code for the paper **"Temporal Slowness in Central Vision D
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/central-vision-ssl.git
+git clone https://github.com/t9s9/central-vision-ssl.git
 cd central-vision-ssl
 pip install -r requirements.txt
 ```
